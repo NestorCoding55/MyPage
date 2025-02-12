@@ -1,0 +1,170 @@
+.image-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+#myname{
+    font-family: "Darumadrop One", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+}
+#myprofession{
+    font-family: "Darumadrop One", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 30px;
+}
+.text-overlay {
+    position: absolute;
+    top: 45%;  /* Centering */
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white; /* Adjust color for readability */
+}
+#imgb{
+    height: 100%;
+    width: 100%;    
+    object-fit: cover;
+
+}
+#Hello{
+    font-size: 80px    ;
+}
+#ab{
+    font-size: 40px ;
+}
+
+#imgm{
+    margin-top: 40px;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+#hero{
+    font-family: "Monomaniac One", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+
+}
+
+#title12{
+    margin-top: 90px;
+    color: black    ;
+}
+#title11{
+    font-family: "Monomaniac One", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black    ;
+}
+
+.imgre{
+    border-radius: 20%;
+    height: 50px;
+    width: 50px;
+}
+#resume{
+    font-family: "Monomaniac One", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    color: white;
+
+}
+.imgl{
+    height: 80vh;
+    width: 100%;
+}
+
+.pl1{
+    font-family: "Monomaniac One", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: white;
+    font-size: 50px;
+   margin-bottom: 50px;
+}
+.pl2{
+    font-family: "Monomaniac One", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: yellow;
+    font-size: 50px;
+   margin-bottom: 50px;
+}
+.pl3{
+    font-family: "Monomaniac One", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: red;
+    font-size: 50px;
+   margin-bottom: 0px;
+   margin-left: 500px ;
+}
+.pl4{
+    font-family: "Monomaniac One", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: red;
+    font-size: 50px;
+   margin-bottom: 0;
+   margin-left: 170px;
+}
+.pl5{
+    font-family: "Monomaniac One", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: green;
+    font-size: 50px;
+   margin-bottom: 50px;
+}
+.pl6{
+    font-family: "Monomaniac One", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: orange;
+    font-size: 50px;
+   margin-bottom: 20px;
+}
+
+#xd{
+    font-family: "Monomaniac One", serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 50px;
+   
+}
+#get{
+    margin-top: 100px;
+    font-size: 100px;
+    margin-bottom: 30px;
+
+}
+
+#btn22{
+height: 100px;
+width: 200px;
+
+}
+ 
+.gradient-background {
+    background: linear-gradient(300deg, #5775d5, #84b7ea, #6d87db);
+    background-size: 180% 180%;
+    animation: gradient-animation 10s ease infinite;
+  }
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
